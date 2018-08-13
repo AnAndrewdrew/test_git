@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Step">
+<Data>
+    <Name>Add-in(s) not activated</Name>
+    <Description>The following add-in(s) were associated with your test, but are not currently loaded: 
+SapGui, WPF.</Description>
+    <StartTime>2018-07-09 00:44:11</StartTime>
+    <Result>Warning</Result>
+    <Extension>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="User">
+<Data>
+    <Name>aa</Name>
+    <Description>aaa</Description>
+    <StartTime>2018-07-09 00:44:12</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>16e9c32c903348ebaee72e6e9f27189f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2018-07-09 00:44:12</StartTime>
+    <Duration>0</Duration>
+    <Result>Passed</Result>
+    <InputParameters>
+      <Parameter name="Param1" value="aa" type="System.String" />
+    </InputParameters>
+    <Extension>
+      <IconKey>e2cad78bc2df4468a3484dd28cca5ffd</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2018-07-09 00:44:12</StartTime>
+    <Duration>1</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>58023d4254d54dd8bbfaad40b1c5ca22</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>GUITest2</Name>
+    <ToolName>HPE Unified Functional Testing</ToolName>
+    <ToolVersion>14.0</ToolVersion>
+    <Description />
+    <StartTime>2018-07-09 00:44:07</StartTime>
+    <Duration>6</Duration>
+    <Result>Warning</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>7d080aebfe2f4d97a5c0babfa89e5a49</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>-07:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>Andrew</User>
+      <CpuInfo>Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz</CpuInfo>
+      <NumberOfCores>1</NumberOfCores>
+      <TotalMemory>2048</TotalMemory>
+      <HostName>SHCPRVUFTQA33</HostName>
+      <OSInfo>Windows 7 Service Pack 1 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res2</ResultName>
+    <RunStartTime>2018-07-09 00:44:07</RunStartTime>
+    <Timezone>-07:00:00</Timezone>
+    <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.0</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>

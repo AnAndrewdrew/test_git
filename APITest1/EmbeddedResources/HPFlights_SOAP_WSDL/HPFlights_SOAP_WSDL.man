@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>e9180855-d397-4318-ab23-f15dd6e24dd5</ID>
+  <Name>HPFlights_SOAP_WSDL</Name>
+  <Type>REST</Type>
+  <Version>1</Version>
+  <CreationDate>2018-05-13T20:08:32.7591719-07:00</CreationDate>
+  <UpdateDate>2018-05-13T20:08:32.7591719-07:00</UpdateDate>
+  <LoaderID>SignatureResourceHandler</LoaderID>
+  <MetaDataSignatureFile>66765a6e-2dbc-45f3-aab4-97ee894b67d0.xml</MetaDataSignatureFile>
+  <TestResourceId>66765a6e-2dbc-45f3-aab4-97ee894b67d0</TestResourceId>
+  <RepositoryType>TestRepository</RepositoryType>
+  <SignatureCodonId>HP.ST.RestDesignTime.RestServicesV2</SignatureCodonId>
+  <SignatureAddinVersion>14.0.427.0</SignatureAddinVersion>
+  <Properties>
+    <Item>
+      <Key>
+        <string>RepositoryPath</string>
+      </Key>
+      <Value>
+        <string>C:\test_github\APITest1\EmbeddedResources</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>ResourceOrigin</string>
+      </Key>
+      <Value>
+        <string>C:\test_github\APITest1\EmbeddedResources\HPFlights_SOAP_WSDL</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>PrototypeDbVersion</string>
+      </Key>
+      <Value>
+        <string>14.0.427.0</string>
+      </Value>
+    </Item>
+  </Properties>
+</ResourceManifest>
